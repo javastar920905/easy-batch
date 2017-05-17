@@ -3,6 +3,7 @@
 
 ## 开发工具
 * 使用idea 开发
+* 使用gradle 作为项目构建工具
 * 使用easy batch 开源框架
 http://www.easybatch.org/v5.0.0/#_getting_started 批处理文档
 
