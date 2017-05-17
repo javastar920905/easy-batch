@@ -1,0 +1,12 @@
+allprojects {
+    group 'com.ouzhx'
+    version '1.0'
+}
+
+
+
+
+
+
+
+

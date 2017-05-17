@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.easybatch:easybatch-core:5.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.easybatch/easybatch-core/5.0.0/30c5f5e48d12eb70b9fd419680ea5dc8049c8e63/easybatch-core-5.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.easybatch/easybatch-core/5.0.0/424e450a0c607a765405d2a79a40456b083d13a9/easybatch-core-5.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
